@@ -10,4 +10,3 @@ This skill consists of three parts:
 1. Gathering data from https://www.worldometers.info/coronavirus/
 2. Storing the data to database created with DynamoDB
 3. Lambda function which runs on command from Alexa to provide the data for the country (user input)
-# corona-update
