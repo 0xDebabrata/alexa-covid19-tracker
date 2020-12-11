@@ -1,4 +1,4 @@
-# corona-update
+# Alexa COVID-19 Tracker
 
 An Alexa skill that provides updates on the total number of COVID-19 cases and the deaths associated with it (for a particular country).
 
